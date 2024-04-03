@@ -1,34 +1,34 @@
 <h2 align="center">
-    ──「 SlayerX Music 」──
+    ──「 RCB X Music 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e27e233e14eb9f3271885.jpg">
+  <img src="https://telegra.ph/file/ead4b6f562714ef09161a.png">
 </p>
 
 <p align="center">
-<a href="https://github.com/AtulxD/SlayerX/stargazers"><img src="https://img.shields.io/github/stars/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AtulxD/SlayerX/network/members"> <img src="https://img.shields.io/github/forks/AtulxD/SlayerX?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AtulxD/SlayerX/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/BLACKLOVER15/RCB_MUSIC"><img src="https://img.shields.io/github/BLACKLOVER15/RCB_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/BLACKLOVER15/RCB_MUSIC/network/members"> <img src="https://img.shields.io/github/forks/BLACKLOVER15/RCB_MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/BLACKLOVER15/RCB_MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AtulxD/SlayerX/commits/SlayerX"> <img src="https://img.shields.io/github/last-commit/AtulxD/SlayerX?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/BLACKLOVER15/RCB_MUSIC/commits/BLACKLOVER15"> <img src="https://img.shields.io/github/last-commit/BLACKLOVER15/RCB_MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/db7653b29f9b702cb12f8.jpg">
+  <img src="https://telegra.ph/file/0be3b87f455dcf8eb542c.png">
 </p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Learningbots79/LB_Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BLACKLOVER15/RCB_MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AtulxD/SlayerX/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/BLACKLOVER15/RCB_MUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/NOxDISCUSSION"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Exampur15"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/SUDO_APT_UDATE"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/https://t.me/BlackMusicSupport"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ᴀɴᴏɴx ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
